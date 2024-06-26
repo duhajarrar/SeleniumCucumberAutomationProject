@@ -1,0 +1,6 @@
+Reports/cucumber/*
+target/*
+.classpath
+.settings
+org.*
+.idea
